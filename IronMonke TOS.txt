@@ -1,4 +1,0 @@
-Iron Monke is a mod where you can fly like Ironman.
-It works in pubs, privs and modded lobbys and is undetected.
-Iron Monke doesnt collect any sort of userdata (check the code, its opensource).
-Have fun
